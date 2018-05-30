@@ -1,0 +1,12 @@
+# Android Studio / IntelliJ IDEA 
+*.iml
+*.iws
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/.idea/tasks.xml
+/.idea/vcs.xml

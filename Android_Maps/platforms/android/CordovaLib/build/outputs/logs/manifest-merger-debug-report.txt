@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:20:1-26:12
+INJECTED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:20:1-26:12
+INJECTED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:20:1-26:12
+INJECTED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:20:1-26:12
+INJECTED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:20:1-26:12
+INJECTED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:20:1-26:12
+INJECTED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:20:1-26:12
+	package
+		ADDED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:21:7-35
+		INJECTED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml
+		INJECTED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:21:36-61
+		INJECTED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml
+		INJECTED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:21:62-85
+		INJECTED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml
+		INJECTED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:22:5-44
+	android:minSdkVersion
+		ADDED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:22:15-41
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:23:1-77
+	android:name
+		ADDED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:23:18-74
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:24:1-75
+	android:name
+		ADDED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:24:18-72
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:25:1-85
+	android:name
+		ADDED from /Users/ionidea/Documents/cordova_googleMaps/Maps/platforms/android/CordovaLib/AndroidManifest.xml:25:18-82
